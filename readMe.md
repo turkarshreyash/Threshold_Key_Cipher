@@ -1,6 +1,6 @@
-Instructions for running
+## Instructions for running
 
-$ make main
+$ make main \\
 $ ./main.out
 
 
